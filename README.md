@@ -9,5 +9,4 @@ Mistakes are, after all, the foucntions of truth, and if a man does not know wha
 Delay is preferable to error.  
 -- Thomas Jefferson
 
-# References
-
+[References](references.html)
